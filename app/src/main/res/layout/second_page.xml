@@ -10,12 +10,18 @@
     <TextView
 
         android:id="@+id/textView2"
-        android:layout_width="325dp"
-        android:layout_height="290dp"
+        android:layout_width="341dp"
+        android:layout_height="498dp"
         android:layout_centerInParent="true"
-        android:text="This is my first Android App "
+        android:text="I used the github as my source code repository
+        \n\n 1 I used Github for four years and I am familiar with Github.
+\n\n 2 I can crack changes in my code across versions
+\n\n 3 It is good for the teamwork, people can work on the same project, and the conflict is easy to fix.
+\n\n 4 It makes it easy to contribute to my open source projects, I can easily use
+command or app to commit or push
+\n\n 5 GitHub profiles and contribution record is good for career. "
         android:textColor="#010F09"
-        android:textSize="30sp"
+        android:textSize="20sp"
         tools:layout_editor_absoluteX="43dp"
         tools:layout_editor_absoluteY="56dp" />
 
@@ -23,9 +29,9 @@
         android:id="@+id/next"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="68dp"
-        android:layout_marginLeft="68dp"
-        android:layout_marginTop="264dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="84dp"
         android:onClick="backPage"
         android:text="Back"
         app:layout_constraintStart_toStartOf="parent"

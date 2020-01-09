@@ -13,11 +13,11 @@
         android:layout_width="302dp"
         android:layout_height="464dp"
         android:layout_centerInParent="true"
-        android:text="This is my first Android App, I have several reason to choose Android:
-        \n\n1 First, I have a Android phone, I familar with Android.
-        \n\n2 Android has 74.13% market share worldwhile, which means the app developed in Android will be used by more people
-        \n\n3 Android can generater apk, it is easy to installed on cellphone for testing
-        \n\n4 Android supports Java as a develop language. I familiared with Java
+        android:text="This is my first Android App, I have several reasons to choose Android:
+\n\n1 First, I have an Android phone, I familiar with Android.
+\n\n2 Android has 74.13% market share worldwide, which means the app developed in Android will be used by more people
+\n\n3 Android can generate apk, it is easy to install on the cellphone for testing
+\n\n4 Android supports Java as a developing language. I familiar with Java.
         "
         android:textColor="#010F09"
         android:textSize="20sp"
